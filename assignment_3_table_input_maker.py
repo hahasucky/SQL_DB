@@ -9,3 +9,5 @@ conv_str = [4.3, 4.0, 3.7, 3.3, 3.0, 2.7, 2.3, 2.0, 1.7]
 for i in range(len(credit)):
 	command = input_maker(credit[i], conv_str[i])
 	print(command)
+
+print('sql is easy')
